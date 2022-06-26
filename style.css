@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(25, 75, 7);
+    color: #fff;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 80px 120px 0 120px;
+}
+
+.title {
+    font-size: 30px;
+    font-family: bold;
+}
+.title, .p {
+    margin-bottom: 40px;
+} 
